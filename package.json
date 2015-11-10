@@ -1,0 +1,25 @@
+{
+  "name": "webpack-rev-replace-plugin",
+  "version": "1.0.0",
+  "description": "Webpack Revision Replacement Plugin for modifying files to inject compiled assets into static files",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bassettsj/weback-rev-replace-plugin.git"
+  },
+  "keywords": [
+    "webpack",
+    "rev",
+    "plugin",
+    "webpack-plugin"
+  ],
+  "author": "Steven Bassett <steven.j.bassett@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bassettsj/weback-rev-replace-plugin/issues"
+  },
+  "homepage": "https://github.com/bassettsj/weback-rev-replace-plugin#readme"
+}
